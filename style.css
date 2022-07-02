@@ -1,0 +1,23 @@
+.line{
+    height: 6px;
+    background-color: black;
+    width: 70px;
+    margin: 8px auto;
+}
+body{
+    text-align: center;
+    background-color: red;
+    
+}
+#app{
+    background-color: brown;
+
+}
+img{
+    height: 400px;
+    margin: 10px;
+    width: 400px;
+}
+#game{
+background-color: brown;
+}
